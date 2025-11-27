@@ -1,4 +1,5 @@
-![Screenshot_2025-02-24_02-25-53](https://github.com/user-attachments/assets/5c09180c-6d4e-4de5-837b-50482f226bd3)
+Admin: ganteng
+password: ganteng
 
 # **NetSTRIK - DDoS Attack Tool** ⚡
 
@@ -21,7 +22,7 @@
    ```bash
    sudo apt-get update && sudo apt-get install git python3
 # Clone the repository:
-      git clone https://github.com/akashblackhat/DDos_Attack.py.git
+      git clone https://github.com/Bangdone/DDos-attack-.git
 
  # Navigate to the project folder:
       cd DDos_Attack.py
